@@ -1,6 +1,6 @@
 Simple maze generator.
 
-![bintest](bintest.pgm)
-![dfstest](dfstest.pgm)
-![rantest](rantest.pgm)
-![rectest](rectest.pgm)
+![bintest](bintest.png)
+![dfstest](dfstest.png)
+![rantest](rantest.png)
+![rectest](rectest.png)
